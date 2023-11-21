@@ -8,7 +8,7 @@ Quickly translate your JSON Language files into the languages you want with AI.
 [![NPM License](https://img.shields.io/npm/l/json-translate-ai.svg?style=flat)](https://www.npmjs.com/package/json-translate-ai)
 
 ## Video Example
-[![Watch the video](thumb.png)](https://youtu.be/C4SW9VrkmI4)
+[![Watch the video](https://raw.githubusercontent.com/miracsengonul/json-translate-ai/main/thumb.png)](https://youtu.be/C4SW9VrkmI4)
 
 ## Installation
 
