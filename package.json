@@ -1,6 +1,6 @@
 {
   "name": "json-translate-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly translate your JSON Language files into the languages you want with AI.",
   "main": "translate.js",
   "bin": {
